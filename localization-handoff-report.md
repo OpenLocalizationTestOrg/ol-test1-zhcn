@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\37711c51-3872-4704-b973-16ca7552a1ee.md](https://github.com/OpenLocalizationTestOrg/ol-test1/blob/137bc9ac881b155251235269d2b64c4699a44261/e2e/37711c51-3872-4704-b973-16ca7552a1ee.md) | HandedOffSuccess | [Details](#29a5bd0bfdf61e91690e1a3b2eb80f10a68472141)
- [e2e\4e07ddc9-ec4b-4f58-8b6c-0df66c4dbd37.md](https://github.com/OpenLocalizationTestOrg/ol-test1/blob/137bc9ac881b155251235269d2b64c4699a44261/e2e/4e07ddc9-ec4b-4f58-8b6c-0df66c4dbd37.md) | HandedOffSuccess | [Details](#99f2c10836673f4ea96143b6feb2825732abf5042)
+ [e2e\02c880c4-b7ad-4cb9-bd6a-279cb46670c5.md](https://github.com/OpenLocalizationTestOrg/ol-test1/blob/58370ca08d88bab83f09405d6ac3c462be1235fa/e2e/02c880c4-b7ad-4cb9-bd6a-279cb46670c5.md) | HandedOffSuccess | [Details](#96160a141d8d1724c1bd46cc48a6650b0d066c871)
+ [e2e\edf19f98-06a0-4452-be86-aa87a4047863.md](https://github.com/OpenLocalizationTestOrg/ol-test1/blob/58370ca08d88bab83f09405d6ac3c462be1235fa/e2e/edf19f98-06a0-4452-be86-aa87a4047863.md) | HandedOffSuccess | [Details](#1fad57a82a806c1733df0f86d7876d71c4d38b417)
 
 ## Item Details
-##### <a name='29a5bd0bfdf61e91690e1a3b2eb80f10a68472141'></a> Source: [e2e\37711c51-3872-4704-b973-16ca7552a1ee.md](https://github.com/OpenLocalizationTestOrg/ol-test1/blob/137bc9ac881b155251235269d2b64c4699a44261/e2e/37711c51-3872-4704-b973-16ca7552a1ee.md)
+##### <a name='96160a141d8d1724c1bd46cc48a6650b0d066c871'></a> Source: [e2e\02c880c4-b7ad-4cb9-bd6a-279cb46670c5.md](https://github.com/OpenLocalizationTestOrg/ol-test1/blob/58370ca08d88bab83f09405d6ac3c462be1235fa/e2e/02c880c4-b7ad-4cb9-bd6a-279cb46670c5.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [37711c51-3872-4704-b973-16ca7552a1ee.e5ef5b6e2531b4e1b35dc70816a367700bd7190a.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test1-handoff/blob/f5a479814bf45e388148c5983ea76f40035a23d8/ol-handoff/OpenLocalizationTestOrg/ol-test1-zhcn/ci/ht/37711c51-3872-4704-b973-16ca7552a1ee.e5ef5b6e2531b4e1b35dc70816a367700bd7190a.zh-cn.xlf)
-* Handoff Datetime: 2017-01-03 09:22:00
+* Handoff File: [02c880c4-b7ad-4cb9-bd6a-279cb46670c5.2674d2858a4815f5e94cb5f3f822809168728a85.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test1-handoff/blob/03e92ec06f69399450424670ac8522542d268944/ol-handoff/OpenLocalizationTestOrg/ol-test1-zhcn/ci/ht/02c880c4-b7ad-4cb9-bd6a-279cb46670c5.2674d2858a4815f5e94cb5f3f822809168728a85.zh-cn.xlf)
+* Handoff Datetime: 2017-01-03 09:22:54
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
@@ -24,11 +24,11 @@
 * Handback Name: 
 * [Back to Top](#report-top)
 
-##### <a name='99f2c10836673f4ea96143b6feb2825732abf5042'></a> Source: [e2e\4e07ddc9-ec4b-4f58-8b6c-0df66c4dbd37.md](https://github.com/OpenLocalizationTestOrg/ol-test1/blob/137bc9ac881b155251235269d2b64c4699a44261/e2e/4e07ddc9-ec4b-4f58-8b6c-0df66c4dbd37.md)
+##### <a name='1fad57a82a806c1733df0f86d7876d71c4d38b417'></a> Source: [e2e\edf19f98-06a0-4452-be86-aa87a4047863.md](https://github.com/OpenLocalizationTestOrg/ol-test1/blob/58370ca08d88bab83f09405d6ac3c462be1235fa/e2e/edf19f98-06a0-4452-be86-aa87a4047863.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [4e07ddc9-ec4b-4f58-8b6c-0df66c4dbd37.e67ca08c05f8ee29d4f1297ac3abc3e529ff9cd5.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test1-handoff/blob/f5a479814bf45e388148c5983ea76f40035a23d8/ol-handoff/OpenLocalizationTestOrg/ol-test1-zhcn/ci/ht/4e07ddc9-ec4b-4f58-8b6c-0df66c4dbd37.e67ca08c05f8ee29d4f1297ac3abc3e529ff9cd5.zh-cn.xlf)
-* Handoff Datetime: 2017-01-03 09:22:00
+* Handoff File: [edf19f98-06a0-4452-be86-aa87a4047863.68bffc4333d604029ed9d1aca64b40704580f75a.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test1-handoff/blob/03e92ec06f69399450424670ac8522542d268944/ol-handoff/OpenLocalizationTestOrg/ol-test1-zhcn/ci/ht/edf19f98-06a0-4452-be86-aa87a4047863.68bffc4333d604029ed9d1aca64b40704580f75a.zh-cn.xlf)
+* Handoff Datetime: 2017-01-03 09:22:54
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
